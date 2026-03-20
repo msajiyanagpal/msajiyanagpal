@@ -23,14 +23,29 @@ class Developer:
     def __init__(self):
         self.name = "Sajiya"
         self.role = "Python Developer"
-        self.learning = ["Python", "FastAPI", "Git", "GitHub", "Backend Development"]
-        self.interests = ["APIs", "Automation", "Web Development", "Open Source"]
+        self.language_spoken = ["English", "Hindi"]
+        self.ask_me_about = [
+            "python", "framework", "database", "cloud",
+            "vcs", "web", "design_tools"
+        ]
+        self.technology = {
+            "language": ["Python"],
+            "framework": ["Django", "Flask", "FastAPI"],
+            "database": ["MongoDB", "PostgreSQL", "MySQL"],
+            "cloud": ["Heroku"],
+            "containerization": ["Docker"],
+            "others": ["SSH"],
+            "vcs": ["Git"],
+            "web": ["HTML", "CSS", "Bootstrap"],
+            "design_tools": ["Photoshop", "Adobe XD"]
+        }
 
     def say_hi(self):
         print("Thanks for visiting my GitHub profile!")
 
 me = Developer()
 me.say_hi()
+```
 
 📂 Featured Projects
 
