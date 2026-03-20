@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajiya</h1>
-<h3 align="center">Python Developer • Backend Developer • Open Source Enthusiast</h3>
+<h3 align="center">Python Developer • Building Smart Backend Systems • Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Learner;Building+Useful+Projects;Always+Learning+New+Things" alt="Typing SVG" />
@@ -54,3 +54,25 @@ rara_fashion – Python project
 evolve.io.ors – Website/project repository
 
 polynomial_assignment – Academic/project work
+
+
+🛠️ My Favorite Tools
+👨‍💻 Programming and Markup Languages
+
+Python • HTML • CSS • JavaScript
+
+📚 Frameworks and Libraries
+
+Django • Flask • FastAPI • Bootstrap
+
+🗄️ Databases and Cloud
+
+MongoDB • PostgreSQL • MySQL • Heroku • Docker
+
+🕓 Version Control
+
+Git • GitHub
+
+🖌️ Design and Tools
+
+Photoshop • Adobe XD • VS Code
