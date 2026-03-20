@@ -75,4 +75,4 @@ Git • GitHub
 
 🖌️ Design and Tools
 
-Photoshop • Adobe XD • VS Code
+Photoshop • VS Code
