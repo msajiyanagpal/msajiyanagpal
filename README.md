@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer • Building Smart Backend Systems • Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Learner;Building+Useful+Projects;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Devloper;Building+Useful+Projects;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
