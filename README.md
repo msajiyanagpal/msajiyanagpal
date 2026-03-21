@@ -18,11 +18,14 @@
 
 - 💼 Python Developer with **3+ years of exp** in backend development and automation
 - 📊 Skilled in **Pandas, NumPy, Matplotlib, Plotly, Requests, and Selenium**
-- 🚀 Focused on building **scalable and maintainable software solutions**
+- 🚀 Focused on building **scalable, efficient, and maintainable software solutions**
 - 🗄️ Experienced with **databases, API integrations, testing, and deployment**
-- 📈 Interested in **data-driven, stock market automation and analytical systems**
+- 📈 Interested in **data-driven, stock market automation, and analytical systems**
+- 🔌 Proficient in building **REST APIs, backend modules, and integration workflows**
+- ⚙️ Experienced in creating **automation tools and practical business solutions**
+- 🧩 Passionate about writing **clean, reliable, and optimized code**
+- 🌐 Working knowledge of **HTML, CSS, JavaScript, and Bootstrap**
 - 📚 Continuously enhancing my expertise in **software engineering, backend architecture, and modern development practices**
-
 ---
 
 ## 🐍 Developer Snapshot
