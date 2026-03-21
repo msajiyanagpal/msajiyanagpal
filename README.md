@@ -71,7 +71,6 @@ print(me.say_hi())
 |--------|-------------|
 | **rara_fashion** | Developed a Python-based project centered around fashion-related functionality and practical use cases. |
 | **evolve.io.ors** | Built and maintained a website/project repository showcasing development workflow and web project structure. |
-| **polynomial_assignment** | Created an academic project to strengthen programming fundamentals, logic building, and mathematical implementation. |
 
 </div>
 
